@@ -10,5 +10,6 @@
     --second-bg:#f5f4fa;
     --main-bg:rgba(255, 255, 255, 1);
     --clients-svg-color: rgb(175 177 183);
+    --bg-svg: rgba(255, 255, 255, 0.1)
 }
-}
+
